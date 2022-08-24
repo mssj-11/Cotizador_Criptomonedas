@@ -4,7 +4,7 @@
 
 
 
-En este ejemplo se esta haciendo uso de ECMA6 consuminedo una API de Criptomonedas con Javascript puro.
+En este ejemplo se está haciendo uso de ECMA6 consumiendo una API de Criptomonedas con Javascript puro.
 
 **Execute Call** en las 2 JSON
 
